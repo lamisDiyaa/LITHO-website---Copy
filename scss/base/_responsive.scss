@@ -1,0 +1,29 @@
+@media screen and (max-width: 768px) {
+  
+    .main__section{
+        &__title{
+         
+            font-size: 10rem;
+            line-height: 11rem;
+        }
+    }
+    .about{
+        text-align: center;
+    }
+   
+  }
+
+  @media screen and (max-width: 576px) {
+   
+    .main__section{
+        
+      
+        &__title{
+         
+            font-size: 7rem;
+            line-height: 11rem;
+        }
+    }
+   
+   
+  }
